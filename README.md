@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/91/97/6a/91976ad71165a2cc12140b925b64f3da.gif" width="100%" alt="Fondo Espacial">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidG9icXl3cm92YTZwYmx1MmNreTNmcmw1Y3ZwbWh0Yzg2bnJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abeS7vAj7wI5CDe/giphy.gif" width="100%" alt="Fondo Espacial">
 </p>
